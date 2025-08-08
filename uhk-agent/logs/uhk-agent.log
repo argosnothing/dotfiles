@@ -2086,3 +2086,33 @@ Error at holdAltr
 [2025-08-08 11:46:57.285] [info]  [UhkHidDevice] Used device: {"vendorId":"0x37A8","productId":"0x3","path":"/dev/hidraw4","serialNumber":"1694489000","manufacturer":"Ultimate Gadget Laboratories","product":"UHK 60 v2","release":2,"interface":4,"usagePage":65280,"usage":1}
 [2025-08-08 11:46:57.288] [info]  [DeviceOperation] status buffer segment: 
 [2025-08-08 11:46:57.289] [info]  [DeviceRendererService] dispatch action [device] Status buffer changed
+[2025-08-08 12:51:18.801] [info]  [WindowState] save settings: {
+  x: 966,
+  y: 6,
+  width: 948,
+  height: 1038,
+  isMaximized: false,
+  isFullScreen: false
+}
+[2025-08-08 12:51:18.812] [info]  [WindowState] save settings success
+[2025-08-08 12:51:18.819] [info]  [Electron Main] win closed
+[2025-08-08 12:51:18.819] [info]  [DeviceService] closing.
+[2025-08-08 12:51:18.819] [info]  [ZephyrLogService | UHK Dongle] Closing
+[2025-08-08 12:51:18.820] [info]  [ZephyrLogService | UHK Dongle] wait until polling
+[2025-08-08 12:51:18.820] [info]  [ZephyrLogService | UHK Dongle] stopped
+[2025-08-08 12:51:18.820] [info]  [ZephyrLogService | UHK Dongle] releaseOperations
+[2025-08-08 12:51:18.820] [info]  [ZephyrLogService | UHK Dongle] no instances to release
+[2025-08-08 12:51:18.820] [info]  [ZephyrLogService | UHK Dongle] Closed
+[2025-08-08 12:51:18.820] [info]  [ZephyrLogService | UHK 80 left] Closing
+[2025-08-08 12:51:18.820] [info]  [ZephyrLogService | UHK 80 left] wait until polling
+[2025-08-08 12:51:18.820] [info]  [ZephyrLogService | UHK 80 left] stopped
+[2025-08-08 12:51:18.820] [info]  [ZephyrLogService | UHK 80 left] releaseOperations
+[2025-08-08 12:51:18.820] [info]  [ZephyrLogService | UHK 80 left] no instances to release
+[2025-08-08 12:51:18.821] [info]  [ZephyrLogService | UHK 80 left] Closed
+[2025-08-08 12:51:18.821] [info]  [DeviceService] stop poll UHK Device
+[2025-08-08 12:51:18.821] [info]  [DeviceService] stopped poll UHK Device
+[2025-08-08 12:51:18.821] [info]  [DeviceService] closed.
+[2025-08-08 12:51:18.821] [info]  [UhkHidDevice] Device communication closing.
+[2025-08-08 12:51:18.823] [info]  [UhkHidDevice] Device communication closed.
+[2025-08-08 12:51:18.823] [info]  [SmartMacroService] stopping...
+[2025-08-08 12:51:18.824] [info]  [SmartMacroService] stopped.
